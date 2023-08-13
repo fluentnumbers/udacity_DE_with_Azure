@@ -1,0 +1,19 @@
+- [Project Instructions](#project-instructions)
+  - [Project Requirements Checklist](#project-requirements-checklist)
+
+
+# Project Instructions
+
+The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture. You will:
+
+- Design a star schema based on the business outcomes below
+- Import the data into Azure Databricks using Delta Lake to create a Bronze data store;
+- Create a gold data store in Delta Lake tables;
+- Transform the data into the star schema for a Gold data store;
+
+You'll implement these requirements by creating a Python notebook, or notebooks in the Azure Databricks workspace. Detailed requirements for what should be in the notebook can be found in the project rubric. You'll submit your notebook(s) and they'll be assessed against this rubric when you submit your project.
+
+
+## Project Requirements Checklist
+
+<img src="assets/image55.png" alt="" width="700"/>

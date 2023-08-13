@@ -3,7 +3,8 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 
 Since the data from Divvy are anonymous, we have created fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset looks like this:
 
-<img src="assets/img.png" alt="assets/img.png" width="700"/>
+
+<img src="assets/dend-project-erd.jpeg" alt="" width="700"/>
 
 
 The goal of this project is to develop a data warehouse solution using Azure Synapse Analytics. You will:
