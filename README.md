@@ -1,6 +1,7 @@
 <!-- TOC -->
 - [Hello👋, I am Andrejs](#hello-i-am-andrejs)
-- [Bikeshare data analytics](#bikeshare-data-analytics)
+- [Building an Azure Data Warehouse for Bike Share Data Analytics](#building-an-azure-data-warehouse-for-bike-share-data-analytics)
+- [Building an Azure Data Lake for Bike Share Data Analytics](#building-an-azure-data-lake-for-bike-share-data-analytics)
 <!-- TOC -->
 
 <!-- <div markdown=1> -->
@@ -17,9 +18,9 @@ I am a passionate data scientist and ML engineer on a continuous journey of **le
 for Udacity program [Data Engineering with Azure](https://learn.udacity.com/nanodegrees/nd0277/).
 The course contains several hands-on projects.
 
-# [Bikeshare data analytics](./Project1%20Bikeshare%20data%20analytics/README.md)
+# [Building an Azure Data Warehouse for Bike Share Data Analytics](./Project1%20Bikeshare%20data%20analytics/README.md)
 
-[]()
+# [Building an Azure Data Lake for Bike Share Data Analytics](./Project2%20Building%20an%20Azure%20Data%20Lake/README.md)
 
 []()
 
