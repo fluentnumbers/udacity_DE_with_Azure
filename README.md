@@ -12,7 +12,7 @@
 
 # Hello👋, I am [Andrejs](https://fluentnumbers.github.io/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedjajevs/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fluentnumbers)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedjajevs/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fluentnumbers) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 I am a passionate data scientist and ML engineer on a continuous journey of **learning by doing**, and this is my repository
 for Udacity program [Data Engineering with Azure](https://learn.udacity.com/nanodegrees/nd0277/).
