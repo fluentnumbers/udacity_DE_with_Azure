@@ -1,0 +1,34 @@
+{
+	"name": "Load payroll2021 from gen2 into sqldb",
+	"properties": {
+		"activities": [
+			{
+				"name": "Load payroll2021 from gen2 into sqldb",
+				"type": "ExecuteDataFlow",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"dataflow": {
+						"referenceName": "Load payroll2021 from gen2 to sqldb",
+						"type": "DataFlowReference"
+					},
+					"compute": {
+						"coreCount": 8,
+						"computeType": "General"
+					},
+					"traceLevel": "Fine"
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-08-20T21:06:56Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
